@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="485fe522-7233-4a75-a99c-997fb20453ce" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1lNGOaF6jNWAZznSyCvDaSo2fka" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\kerstwinkel" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="485fe522-7233-4a75-a99c-997fb20453ce" name="Default Changelist" comment="" />
+      <created>1607430103303</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607430103303</updated>
+      <workItem from="1607430105256" duration="5149000" />
+      <workItem from="1607523513610" duration="198000" />
+      <workItem from="1607604505966" duration="39000" />
+      <workItem from="1607785254773" duration="45000" />
+      <workItem from="1607785329646" duration="770000" />
+      <workItem from="1607851274508" duration="32000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="746" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1607434030032">
+      <screen x="65" y="0" width="1855" height="1280" />
+    </state>
+    <state x="746" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/65.0.1855.1280@65.0.1855.1280" timestamp="1607434030032" />
+    <state x="747" y="271" key="FileChooserDialogImpl" timestamp="1607851304692">
+      <screen x="65" y="0" width="1855" height="1280" />
+    </state>
+    <state x="747" y="271" key="FileChooserDialogImpl/65.0.1855.1280/1920.0.1280.680@65.0.1855.1280" timestamp="1607604542403" />
+    <state x="747" y="271" key="FileChooserDialogImpl/65.0.1855.1280@65.0.1855.1280" timestamp="1607851304692" />
+    <state x="793" y="474" key="NewPhpClassDialog" timestamp="1607435136397">
+      <screen x="65" y="0" width="1855" height="1280" />
+    </state>
+    <state x="793" y="474" key="NewPhpClassDialog/65.0.1855.1280@65.0.1855.1280" timestamp="1607435136397" />
+    <state x="827" y="571" key="NewPhpFileDialog" timestamp="1607430146486">
+      <screen x="65" y="0" width="1855" height="1280" />
+    </state>
+    <state x="827" y="571" key="NewPhpFileDialog/65.0.1855.1280@65.0.1855.1280" timestamp="1607430146486" />
+  </component>
+</project>
